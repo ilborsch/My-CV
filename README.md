@@ -1,2 +1,2 @@
 # My-CV
-Check illia_borshch_cv.pdf file please.
+Check CV.pdf file please.
